@@ -25,5 +25,7 @@ facebookName = element.text
 
 print(facebookName)
 
+print("hello world")
+
 driver.close
 driver.quit
